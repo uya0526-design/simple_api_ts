@@ -70,6 +70,9 @@ simple_api_ts/
 
 ### インストール / Install
 
+> ⚠️ 本ツールは以下のリポジトリと連携することを前提としています。
+> https://github.com/your-username/simple_api_py.git
+
 ```bash
 git clone https://github.com/uya0526-design/simple_api_ts.git
 cd simple_api_ts
